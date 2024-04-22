@@ -42,4 +42,4 @@ Format your response using Markdown syntax as needed.
 
 1. Render your Quarto document
 2. Push your repository to GitHub
-3. [ ] TBD
+3. Submit the URL or PDF of your rendered document to the corresponding assignment on Canvas.
