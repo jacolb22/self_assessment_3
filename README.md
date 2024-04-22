@@ -6,7 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #5, #6, and #7 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #5, #6, and #7
-  - Project step #3: Data preparation
+  - [Project step #3: Data preparation](https://github.com/lin-380-s24/project_step_3)
 
 ## Objectives
 
