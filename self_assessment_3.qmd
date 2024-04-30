@@ -1,0 +1,8 @@
+---
+title: "Self Assessment #3"
+author: "Logan Jacobs"
+format: html
+editor: visual
+---
+
+I learned how to collect data, from various sources such as project gutenberg, as well as from other places, imported by zip files, or tar.gz files. I also learned how to process data that comes in a sem-structured format and how to tidy it up into a structured, curated dataset. This was likely the most difficult part for me, because you need to have a vision of where you are going before you actually parse and format the semi-structured data. Additionally, there is no one-size-fits-all solution in this manner because when the data is semi-structured, you have to glean some of the data yourself, and use some of the data that has been given to you, but depending on the source, that can vary widely. I also learned how to tokenize and normalize text, as well as making the data more useful for the project at hand. This could include, the aforementioned tokenizing and normalizing, but also splitting, merging and otherwise altering existing information. I consulted resources left and right for these purposes, namely stack overflow and chat gpt. I knew how to do this coding in different languages, like Java and Python, but I didn't know how to do it in R, so I had to use different resources to help me. In the future, I hope to learn the parallels between R and Python and Java string manipulation, as any parallels between these three languages may expand outwards into other, similar languages.
